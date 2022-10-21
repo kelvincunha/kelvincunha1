@@ -1,9 +1,9 @@
-# 👋 Hello! Welcome to my Github profile.
-## My name is KelvinCunha and my nickname is "Kelvin"!
+# 👋 Olá!
+## Meu nome é Kelvin Cunha!
 
 - 🔭 Atualmente estou trabalhando em Segurança do Trabalho
-- 🌱 Atualmente estou aprendendo Python e Javascript
-- 📫 Como entrar em contato comigo: kelvin.eter@gmail.com
+- 🌱 Atualmente estou aprendendo Programação em Python e Javascript!
+- 📫 Como entrar em contato comigo: kelvin.eter@gmail.com e +55 83 99904-4238
 - ⚡ Curiosidade: Toco instrumentos de corda!
 
 ## Contatos:
