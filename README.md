@@ -1,5 +1,5 @@
 # 👋 Olá!
-## Meu nome é Kelvin Cunha!
+## Me chamo Kelvin Cunha!
 
 - 🔭 Atualmente estou trabalhando em Segurança do Trabalho
 - 🌱 Atualmente estou aprendendo Programação em Python e Javascript!
